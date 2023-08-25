@@ -1,0 +1,19 @@
+header {
+  background-color: grey;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+header h1 {
+  color: #fff;
+  text-decoration: none;
+  transition: linear 0.1s;
+}
+
+header h1:hover {
+  color: rgb(189, 189, 189);
+  text-decoration: none;
+}
